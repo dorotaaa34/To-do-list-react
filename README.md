@@ -10,6 +10,16 @@ This application enables user to remember about all the tasks that need to be do
 # Demo
 https://dorotaaa34.github.io/to-do-list-react/
 
+# Technologies:
+- CSS
+- JS+ futures
+- HTML
+- BEM
+- React
+- Create-react-app
+- Webpack
+- Babel
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
