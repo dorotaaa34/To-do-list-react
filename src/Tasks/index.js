@@ -9,8 +9,7 @@ const Tasks = ({ tasks, hideDoneTasks }) => (
         className={`tasks__item${
           task.done && hideDoneTasks ? 
           " tasks__item--hidden" : ""
-        } `
-        }
+        } `}
         >
         <button className="tasks__button tasks__button--toggleDone">
           {task.done ? "✓" : ""}
