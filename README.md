@@ -1,8 +1,11 @@
 # Task list
 
-Description
+# Description
 
 This application enables user to remember about all the tasks that need to be done. It is possible to add the task to the list and tick it when it is done. Additionally, old tasks can be easily deleted.
+
+# Preview
+![Task list]()
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
