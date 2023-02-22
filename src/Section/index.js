@@ -2,15 +2,13 @@ import React from "react";
 import "./style.css";
 
 const Section = ({ title, body, extraHeaderContent }) => (
-    <section className="section">
+  <section className="section">
     <header className="section__header">
-      { title }
+      {title}
       {extraHeaderContent}
     </header>
-    <div className="section__body">
-    {body}
-   </div>
-   </section>
+    <div className="section__body">{body}</div>
+  </section>
 );
 
 export default Section;
