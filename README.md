@@ -15,8 +15,6 @@ https://dorotaaa34.github.io/to-do-list-react/
 - JS+ futures
 - HTML
 - BEM
-- React
-- Create-react-app
 - Webpack
 - Babel
 
