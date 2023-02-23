@@ -5,12 +5,12 @@
 }
 
 @media (max-width: 767){
-    .buttons__b {
+    .buttons__button {
         flex-basis: 100%;
         margin: 10px;
     }
 }
-.buttons__b {
+.buttons__button {
     background: transparent;
     color: teal;
     border: none;
@@ -19,14 +19,14 @@
     cursor: pointer;
 }
 
-.buttons__b:hover {
+.buttons__button:hover {
     color: rgb(40, 158, 158);
 }
 
-.buttons__b:active {
+.buttons__button:active {
     color: rgb(110, 180, 180);
 }
 
-.buttons__b:disabled {
+.buttons__button:disabled {
     color: lightslategrey;
 }
