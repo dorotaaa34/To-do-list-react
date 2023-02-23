@@ -3,7 +3,6 @@
     display: grid;
     grid-template-columns: 1fr auto;
     grid-gap: 20px;
-    padding: 20px;
 }
 
 @media(max-width: 767px) {
@@ -13,13 +12,11 @@
 }
 
 .form__input {
-    padding: 10px;
     border: 1px dotted grey;
     margin: 10px;
 }
 
 .form__button {
-    padding: 10px;
     margin: 10px;
     background: teal;
     color: white;
