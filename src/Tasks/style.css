@@ -8,6 +8,7 @@
     grid-template-columns: auto 1fr auto;
     grid-gap: 10px;
     align-items: center;
+    padding: 10px;
     border-bottom: 1px dotted grey;
 }
 
